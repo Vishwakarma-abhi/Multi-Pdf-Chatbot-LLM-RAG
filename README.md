@@ -1,7 +1,5 @@
 # Multi-Pdf-Chatbot-LLM-RAG
 
-Here's an example of a polished, engaging README for GitHub to showcase your AI-Powered Personalized Learning App project:
-
 📚 AI-Powered Personalized Learning App 🤖
 Welcome to the AI-Powered Personalized Learning App! This application harnesses the power of Generative AI to create custom learning experiences tailored to each user's interests, goals, and pace. Whether you're aiming to gain a new skill, deepen your knowledge, or just want a more efficient way to learn, this app has you covered.
 
@@ -25,3 +23,25 @@ Receive targeted suggestions to keep you focused on the most relevant content fo
 
 
 ![Screenshot 2024-10-11 113343](https://github.com/user-attachments/assets/d00ac3e1-79db-43f0-a5d2-8a833618f48d)
+
+🎉 Get Started!
+To begin using the app:
+
+Clone the repository:
+bash
+Copy code
+git clone https://github.com/username/ai-powered-learning-app.git
+Install the required dependencies:
+bash
+Copy code
+pip install -r requirements.txt
+Run the app:
+bash
+Copy code
+streamlit run app.py
+Once the app is up and running, explore the features, sign up, and start your personalized learning journey!
+
+🚀 Technology Stack
+Frontend: Streamlit for UI components and interactive design
+Backend: Python for AI-driven features and data processing
+
